@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "server"
+		},
+		{
+			"path": "01.Calendar"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "01.Calendar"
+	}
+}
